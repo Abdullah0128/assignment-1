@@ -45,8 +45,9 @@
     margin-top: 50px ;
     margin-left:250px ;
     margin-right:  250px;
-    background-color: #ADC8F7;
-    border-radius: 5px;
+    height: 1380px;
+    background-color: #E5E7E9;
+    border-radius: 15px;
   }
   .sec-title{
     text-align: center;
@@ -59,22 +60,35 @@
   .details{
     padding: 10px 50px 10px 50px;
   }
-  .first-1st{
+  .first-1st,.first-2nd,.first-3rd{
     display: flex;
     justify-content: space-between;
-    margin: 20px 30px 20px 30px;
-    background-color: #FFFFFF;
+    margin: 20px 80px 20px 80px;
+    border-radius: 10px;
+    background-color: #FBFCFC;
   }
-  .first-1st-1{
+  .first-1st-1,.third-1st-1{
     padding-left: 180px;
     padding-top: 40px;
     width: 350px;
   }
-  .first-1st-2nd{
+  .second-1st-1st{
+    padding-left: 180px;
+    padding-top: 40px;
+    width: 350px;
+
+  }
+  .first-1st-2nd,.third-1st-2nd{
     padding-right: 180px;
     padding-top: 60px;
     width: 350px;
     
+
+  }
+  .second-1st-2nd{
+    padding-right: 380px;
+    padding-top: 60px;
+    width: 350px;
 
   }
   .sec-details1{
@@ -85,13 +99,79 @@
     padding-top: 20px;
     
   }
-  .m1{
+  .m1,.m2,.m3{
     width: 300px;
 
   }
-  .btn1{
+  .btn1,.btn2,.btn3{
    margin-top:30px ;
    height: 40px;
    width: 120px;
 
   }
+  .two-2{
+    text-align: center;
+    padding: 50px 400px 10px 400px;
+    font-size: 25px;
+  }
+  .two-2-1{
+    font-size: 35px
+
+  }
+  .three-3{
+    padding-left: 700px;
+    padding-top: 50px;
+  }
+  .tre-tre{
+    border-radius: 20px;
+      /* padding: 15px;   */
+  }
+  .three{
+    margin: 50px 200px 50px 200px;
+  }
+  .tre-3{
+    display: flex;
+    justify-content: space-around;
+    padding: 100px 200px 100px 200px;
+    height: 300px;
+    gap: 24px;
+   
+    
+  }
+  .tre-3-1{
+    background-color: #FDEDEC;
+    border-radius: 20px;
+    
+  }
+  .tre-3-2{
+    background-color: #EBEBEB;
+    border-radius: 20px;
+
+  }
+  .tre-3-3{
+    background-color: #f6efeb;
+    border-radius: 20px;
+  }
+  .img-1,.img-2,.img-3{
+    padding-left: 40px;
+    padding-top: 30px;
+  }
+  .title-3{
+    padding-left:40px ;
+  }
+  .des-3{
+    padding-left: 40px;
+  }
+  .lin-3{
+    padding-left: 40px;
+  }
+  .three-title{
+    padding-top: 30px;
+    font-size: 30px;
+    text-align: center;
+  }
+  .three-des{
+    text-align: center;
+  }
+
+  
