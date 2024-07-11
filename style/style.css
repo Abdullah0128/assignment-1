@@ -239,4 +239,18 @@ border-radius: 10px;
 padding: 5px 20px 5px 20px;
 font-size: 20px;
 }
+/* Footer style */
+.last{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 400px;
+  margin-right: 250px;
+  background-color: #faf5f5;
+  height: 60px;
+  padding:40px;
+  border-radius: 10px;
+}
+.first-last{
+  font-weight: bold;
+}
   
